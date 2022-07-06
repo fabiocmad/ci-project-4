@@ -61,4 +61,6 @@
 ## Credits
 ### Code
 ### Content
+* The shop logo came from https://www.adobe.com/express/create/logo
+
 ### Project Acknowledgements
