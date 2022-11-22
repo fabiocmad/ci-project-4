@@ -1,4 +1,4 @@
-# The Pet Store Project
+# House of Pasta
 
 ## Introduction
 
