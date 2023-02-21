@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
+    'django_summernote',
     'houseOfPasta',
 ]
 
@@ -77,6 +78,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'restaurant_todo.wsgi.application'
+CSRF_TRUSTED_ORIGINS = ["https://8000-fabiocmad-ciproject4-9ey7ma0i9g7.ws-eu87.gitpod.io"]
 
 
 # Database
