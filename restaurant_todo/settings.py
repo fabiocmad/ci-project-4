@@ -33,6 +33,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['house-of-pasta.herokuapp.com', 'localhost']
 
+ACCOUNT_EMAIL_VERIFICATION = 'none'
+
 
 # Application definition
 
