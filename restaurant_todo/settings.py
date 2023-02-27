@@ -44,12 +44,26 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
+    'django.contrib.sites',
+    'allauth',
+    'allauth.account',
+    'allauth.socialaccount',
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
     'django_summernote',
+    'crispy_forms',
+    'crispy_bootstrap5',
     'houseOfPasta',
 ]
+
+SITE_ID = 1
+
+LOGIN_REDIRECT_URL = '/'
+LOGOUT_REDIRECT_URL = '/'
+
+CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
+CRISPY_TEMPLATE_PACK = "bootstrap5"
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -66,7 +80,7 @@ ROOT_URLCONF = 'restaurant_todo.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [TEMPLATES_DIR],
+        'DIRS': [os.path.join(BASE_DIR, 'templates'),],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -80,7 +94,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'restaurant_todo.wsgi.application'
-CSRF_TRUSTED_ORIGINS = ["https://8000-fabiocmad-ciproject4-9ey7ma0i9g7.ws-eu87.gitpod.io"]
+CSRF_TRUSTED_ORIGINS = ["https://8000-fabiocmad-ciproject4-9ey7ma0i9g7.ws-eu88.gitpod.io"]
 
 
 # Database
