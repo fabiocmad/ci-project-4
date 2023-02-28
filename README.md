@@ -44,7 +44,7 @@ Initially the idea was to design a store, either a pet store or a restaurant. Wh
   
 
 ## Technologies Used
-- HTML, CSS, Javascript, Python+Django, ElephantSQL and Couudinary.
+- HTML, CSS, Javascript, Python+Django, ElephantSQL and Cloudinary.
 
 ## Testing
 ### Google Developer Tools
