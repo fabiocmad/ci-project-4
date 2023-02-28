@@ -65,6 +65,7 @@ This site was built using [https://github.com/users/fabiocmad/projects/2/views/1
 ![Admin](https://github.com/fabiocmad/ci-project-4/blob/main/media/admin.PNG)
 ![Add posts](https://github.com/fabiocmad/ci-project-4/blob/main/media/addposts.PNG)
 ![Approve comments](https://github.com/fabiocmad/ci-project-4/blob/main/media/approvecomments.PNG)
+![Mobile](https://github.com/fabiocmad/ci-project-4/blob/main/media/mobile.PNG)
 
 ## Known Bugs
 
