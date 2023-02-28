@@ -44,16 +44,6 @@ This site was built using [https://github.com/users/fabiocmad/projects/2/views/1
 ##### Login Register
 ##### Contact
 
-### Surface
-#### Colours
-#### Typography
-
-## Features
-### All Pages
-### Register Pages
-### Home Page
-### Book Now
-
 ## Technologies Used
 
 ## Testing
