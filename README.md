@@ -20,8 +20,8 @@ This is blog regarding Pasta. It was made for Pasta enthusiasts and carbohydrate
 - User have a clear login experience as is able to navigate through the content of the blog
 #### User Expectations
 - App works as expected
-#### User Stories
-![alt text](http://url/to/img.png)
+#### User Stories - Jira board completed
+![Jira board](https://github.com/fabiocmad/ci-project-4/blob/main/media/Capture3.PNG)
 
 ### Scope
 #### Phase 1
@@ -30,9 +30,10 @@ This is blog regarding Pasta. It was made for Pasta enthusiasts and carbohydrate
 
 ### Structure
 #### Database Model
+![Jira board](https://github.com/fabiocmad/ci-project-4/blob/main/media/cloudinary.PNG)
 
 ### Skeleton
-#### Wireframes
+#### Wireframes - Initial Design
 <img width="418" alt="Services" src="https://user-images.githubusercontent.com/43655104/177613500-18f1d736-3120-43a7-b0bb-4f7ce66b9a5c.PNG">
 <img width="502" alt="logged_in" src="https://user-images.githubusercontent.com/43655104/177613527-91463564-a47e-46a3-ba02-80fe4a52dd06.PNG">
 <img width="395" alt="login_register" src="https://user-images.githubusercontent.com/43655104/177613548-6bc44474-169f-4c88-ad2a-4b36ebd0a0df.PNG">
