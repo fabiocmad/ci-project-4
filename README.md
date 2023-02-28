@@ -3,6 +3,8 @@
 ## Introduction
 This is blog regarding Pasta. It was made for Pasta enthusiasts and carbohydrate lovers. Here we share recipes, interact with each other by liking and commeting on the posts. Make sure to register/login and check it out!
 
+This blog is based on "I think, therefore I blog" project from code Institute.
+
 ## Table of Contents
 
 ## UX
