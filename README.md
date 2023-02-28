@@ -26,32 +26,28 @@ This blog is based on "I think, therefore I blog" project from code Institute.
 This site was built using [https://github.com/users/fabiocmad/projects/2/views/1?layout=board]
 !(https://github.com/fabiocmad/ci-project-4/blob/main/media/Capture3.PNG)
 
-### Scope
-#### Phase 1
-#### Phase 2
-#### Phase 3
-
 ### Structure
 #### Database Model
 ![Jira board](https://github.com/fabiocmad/ci-project-4/blob/main/media/cloudinary.PNG)
 
 ### Skeleton
 #### Wireframes - Initial Design
+Initially the idea was to design a store, either a pet store or a restaurant. Where the user would be able to register, login, comment and interact by being able to make appointments and reserve a dinner table. With time this has changed into the blog where we post recipes and users can interact.
+
 <img width="418" alt="Services" src="https://user-images.githubusercontent.com/43655104/177613500-18f1d736-3120-43a7-b0bb-4f7ce66b9a5c.PNG">
 <img width="502" alt="logged_in" src="https://user-images.githubusercontent.com/43655104/177613527-91463564-a47e-46a3-ba02-80fe4a52dd06.PNG">
 <img width="395" alt="login_register" src="https://user-images.githubusercontent.com/43655104/177613548-6bc44474-169f-4c88-ad2a-4b36ebd0a0df.PNG">
 <img width="418" alt="Services" src="https://user-images.githubusercontent.com/43655104/177613573-a38b78fe-84c0-4057-91a4-96b3d71fe63e.PNG">
-##### Home Page
-##### Services
-##### Login Register
-##### Contact
 
 ## Technologies Used
+- HTML, CSS, Javascript, Python+Django, ElephantSQL and Couudinary.
 
 ## Testing
 ### Google Developer Tools
 ### Lighthouse
 ### Responsive Tools
+
+
 ### W3C Validator Tools
 ### Manual Testing
 
