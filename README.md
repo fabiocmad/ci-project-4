@@ -45,34 +45,69 @@ Initially the idea was to design a store, either a pet store or a restaurant. Wh
 ## Testing
 ### Google Developer Tools
 ### Lighthouse
+![Lighthouse](https://github.com/fabiocmad/ci-project-4/blob/main/media/lighthouse.PNG)
+
+
 ### Responsive Tools
 
-
-### W3C Validator Tools
 ### Manual Testing
+- Needs to be implemented in future feature updates and bug fixes on following deployments.
+- At the moment, manual testing was done and the following was the outcome
+
+
 
 ## Deployment
 
 ## End Product
 ### Screenshots
+#### Header
 ![Header](https://github.com/fabiocmad/ci-project-4/blob/main/media/header.PNG)
+
+#### Posts
 ![Posts](https://github.com/fabiocmad/ci-project-4/blob/main/media/posts.PNG)
+
+#### Footer
 ![Footer](https://github.com/fabiocmad/ci-project-4/blob/main/media/footer.PNG)
+
+#### Post
 ![Post](https://github.com/fabiocmad/ci-project-4/blob/main/media/post.PNG)
+
+#### Comments
 ![Comments](https://github.com/fabiocmad/ci-project-4/blob/main/media/comments.PNG)
+
+#### Admin
 ![Admin](https://github.com/fabiocmad/ci-project-4/blob/main/media/admin.PNG)
+
+#### Add posts
 ![Add posts](https://github.com/fabiocmad/ci-project-4/blob/main/media/addposts.PNG)
+
+#### Approve Comments
 ![Approve comments](https://github.com/fabiocmad/ci-project-4/blob/main/media/approvecomments.PNG)
+
+#### Mobile
 ![Mobile](https://github.com/fabiocmad/ci-project-4/blob/main/media/mobile.PNG)
+
+#### Mobile Comment
 ![Mobile comment]((https://github.com/fabiocmad/ci-project-4/blob/main/media/cel_comment.PNG))
+
+#### Burguer Menu
 ![Mobile burguer]((https://github.com/fabiocmad/ci-project-4/blob/main/media/burguer_menu.PNG))
 
 
 ## Known Bugs
+Future work:
+- Lighthouse issues that need to be fixed
+- Unit testing needs to be implemented
+- Sizing of the images need to be consistent - using CSS potentially
 
 ## Credits
 ### Code
+* https://learn.codeinstitute.net/courses
+* 
 ### Content
-* The shop logo came from https://www.adobe.com/express/create/logo
+* https://fontawesome.com/icons/square-twitter?s=&f=brands
+* https://www.bbcgoodfood.com/recipes/focaccia
+* https://www.bbcgoodfood.com/recipes/spaguetti
+* https://www.bbcgoodfood.com/recipes/lasagna
 
 ### Project Acknowledgements
