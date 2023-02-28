@@ -61,17 +61,19 @@ This is blog regarding Pasta. It was made for Pasta enthusiasts and carbohydrate
 ### Responsive Tools
 ### W3C Validator Tools
 ### Manual Testing
-#### Navigation Bar
-#### Footer
-#### HomePage
-#### Contact Page
-#### Booking Page
-#### Edit Booking Page
 
 ## Deployment
 
 ## End Product
 ### Screenshots
+![Header](https://github.com/fabiocmad/ci-project-4/blob/main/media/header.PNG)
+![Posts](https://github.com/fabiocmad/ci-project-4/blob/main/media/posts.PNG)
+![Footer](https://github.com/fabiocmad/ci-project-4/blob/main/media/footer.PNG)
+![Post](https://github.com/fabiocmad/ci-project-4/blob/main/media/post.PNG)
+![Comments](https://github.com/fabiocmad/ci-project-4/blob/main/media/comments.PNG)
+![Admin](https://github.com/fabiocmad/ci-project-4/blob/main/media/admin.PNG)
+![Add posts](https://github.com/fabiocmad/ci-project-4/blob/main/media/addposts.PNG)
+![Approve comments](https://github.com/fabiocmad/ci-project-4/blob/main/media/approvecomments.PNG)
 
 ## Known Bugs
 
