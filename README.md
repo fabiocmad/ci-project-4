@@ -52,8 +52,8 @@ Initially the idea was to design a store, either a pet store or a restaurant. Wh
 ![Lighthouse](https://github.com/fabiocmad/ci-project-4/blob/main/media/lighthouse.PNG)
 
 ### Manual Testing
-- Needs to be implemented in future feature updates and bug fixes on following deployments.
-- At the moment, manual testing was done and the following was the outcome
+- Unit testing needs to be implemented in future feature updates on following deployments.
+- At the moment, manual testing was done and the following was the outcome, with no issues.
 
 Testing - User Experience | Result
 ------------ | -------------
@@ -65,6 +65,7 @@ User is able to expand posts  | Pass
 User is able to read comments and like posts  | Pass
 Comment section only available if user is logged in | Pass
 User receives a pop up when attempting to comment, explaining it needs to be approved | Pass
+Admin is able to access admin content | Pass
 Admin can create, delete and edit posts and commments | Pass
 Admin can approve comments | Pass
 Admin can delete content | Pass
