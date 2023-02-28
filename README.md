@@ -23,8 +23,8 @@ This blog is based on "I think, therefore I blog" project from code Institute an
 #### User Expectations
 - App works as expected
 #### User Stories - Jira board completed
-This site was built using [https://github.com/users/fabiocmad/projects/2/views/1?layout=board]
-!(https://github.com/fabiocmad/ci-project-4/blob/main/media/Capture3.PNG)
+This site was built using this board [(https://github.com/users/fabiocmad/projects/2/views/1?layout=board)]
+![](https://github.com/fabiocmad/ci-project-4/blob/main/media/Capture3.PNG)
 
 ### Structure
 #### Database Model
@@ -101,10 +101,13 @@ Admin can delete content | Pass
 ![Mobile](https://github.com/fabiocmad/ci-project-4/blob/main/media/mobile.PNG)
 
 #### Mobile Comment
-![Mobile comment]((https://github.com/fabiocmad/ci-project-4/blob/main/media/cel_comment.PNG))
+![Mobile comment](https://github.com/fabiocmad/ci-project-4/blob/main/media/cel_comment.PNG)
 
 #### Burguer Menu
-![Mobile burguer]((https://github.com/fabiocmad/ci-project-4/blob/main/media/burguer_menu.PNG))
+![Mobile burguer](https://github.com/fabiocmad/ci-project-4/blob/main/media/burguer_menu.PNG)
+
+#### User message waiting approval
+![Comment approval](https://github.com/fabiocmad/ci-project-4/blob/main/media/waiting_approval.PNG)
 
 
 ## Known Bugs
