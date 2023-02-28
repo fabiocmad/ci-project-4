@@ -127,6 +127,7 @@ Future work:
 * https://www.w3schools.com/python/python_file_write.asp
 * https://docs.djangoproject.com/en/4.1/intro/tutorial07/
 * https://docs.djangoproject.com/en/4.1/intro/tutorial05/ (Future implementation)
+* https://devcenter.heroku.com/articles/python-support#supported-runtimes (Issue appeared when trying to deploy on Heroku)
 
 ### Content
 * https://fontawesome.com/icons/square-twitter?s=&f=brands
