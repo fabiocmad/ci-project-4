@@ -3,6 +3,8 @@
 ## Introduction
 This is blog regarding Pasta. It was made for Pasta enthusiasts and carbohydrate lovers. Here we share recipes, interact with each other by liking and commeting on the posts. Make sure to register/login and check it out!
 
+Live website can be found here - https://house-of-pasta.herokuapp.com/
+
 <b>This blog is based on <ins>"I think, therefore I blog"</ins> project from Code Institute and was adapted and tailored to get pasta lovers attention.</b>
 
 ## Table of Contents
@@ -69,7 +71,9 @@ Admin can delete content | Pass
 App is responsive | Pass
 
 ## Deployment
-
+### <ins>Heroku deployment</ins>
+![deployment](https://github.com/fabiocmad/ci-project-4/blob/main/media/heroku_deployed.PNG)
+![Heroku](https://github.com/fabiocmad/ci-project-4/blob/main/media/heroku.PNG)
 
 ## End Product
 ### <ins>Header</ins>
