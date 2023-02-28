@@ -64,6 +64,9 @@ Initially the idea was to design a store, either a pet store or a restaurant. Wh
 ![Add posts](https://github.com/fabiocmad/ci-project-4/blob/main/media/addposts.PNG)
 ![Approve comments](https://github.com/fabiocmad/ci-project-4/blob/main/media/approvecomments.PNG)
 ![Mobile](https://github.com/fabiocmad/ci-project-4/blob/main/media/mobile.PNG)
+![Mobile comment]((https://github.com/fabiocmad/ci-project-4/blob/main/media/cel_comment.PNG))
+![Mobile burguer]((https://github.com/fabiocmad/ci-project-4/blob/main/media/burguer_menu.PNG))
+
 
 ## Known Bugs
 
