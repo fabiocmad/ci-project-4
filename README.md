@@ -101,6 +101,9 @@ App is responsive | Pass
 ### <ins>Approve Comments</ins>
 ![Approve comments](https://github.com/fabiocmad/ci-project-4/blob/main/media/approvecomments.PNG)
 
+### <ins>Delete Comments</ins>
+![Delete comments](https://github.com/fabiocmad/ci-project-4/blob/main/media/delete.PNG)
+
 ### <ins>Mobile</ins>
 ![Mobile](https://github.com/fabiocmad/ci-project-4/blob/main/media/mobile.PNG)
 
