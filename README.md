@@ -1,15 +1,27 @@
 # House of Pasta
 
 ## Introduction
+This is blog regarding Pasta. It was made for Pasta enthusiasts and carbohydrate lovers. Here we share recipes, interact with each other by liking and commeting on the posts. Make sure to register/login and check it out!
 
 ## Table of Contents
 
 ## UX
 ### Strategy
 #### Project Goals
+- User can register
+- User can login
+- User can logout
+- Post comments
+- Like posts
+- Admin can revie and approve posts
+- Admin can create, edit and delete content
+
 #### User Goals
+- User have a clear login experience as is able to navigate through the content of the blog
 #### User Expectations
+- App works as expected
 #### User Stories
+![alt text](http://url/to/img.png)
 
 ### Scope
 #### Phase 1
