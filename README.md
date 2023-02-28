@@ -54,9 +54,22 @@ Initially the idea was to design a store, either a pet store or a restaurant. Wh
 - Needs to be implemented in future feature updates and bug fixes on following deployments.
 - At the moment, manual testing was done and the following was the outcome
 
-
+Testing - User Experience | Result
+------------ | -------------
+Click on login brings user to login page | Pass
+Click on home brings user to home page | Pass
+Click on register brings user to register page  | Pass
+User is able to login and logout  | Pass
+User is able to expand posts  | Pass
+User is able to read comments and like posts  | Pass
+Comment section only available if user is logged in | Pass
+User receives a pop up when attempting to comment, explaining it needs to be approved | Pass
+Admin can create, delete and edit posts and commments | Pass
+Admin can approve comments | Pass
+Admin can delete content | Pass
 
 ## Deployment
+
 
 ## End Product
 ### Screenshots
