@@ -21,7 +21,8 @@ This is blog regarding Pasta. It was made for Pasta enthusiasts and carbohydrate
 #### User Expectations
 - App works as expected
 #### User Stories - Jira board completed
-![Jira board](https://github.com/fabiocmad/ci-project-4/blob/main/media/Capture3.PNG)
+This site was built using [https://github.com/users/fabiocmad/projects/2/views/1?layout=board]
+!(https://github.com/fabiocmad/ci-project-4/blob/main/media/Capture3.PNG)
 
 ### Scope
 #### Phase 1
